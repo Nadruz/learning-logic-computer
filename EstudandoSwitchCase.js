@@ -21,4 +21,8 @@ switch (classificacao) {
     case "C":
         console.log("Desclassificado :(");
     break;
+
+    default:
+        console.log("Classificação não reconhecida.");
+    break;
 }
