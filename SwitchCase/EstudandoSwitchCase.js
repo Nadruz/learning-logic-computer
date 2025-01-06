@@ -4,7 +4,7 @@ let pontos = 90
 switch (classificacao) {
     case "A":
         if (pontos >= 90) {
-         console.log("Conseguiu nota máxima!");    
+            console.log("Conseguiu nota máxima!");    
         } else {
             console.log ("Quase alcançou A!");
         }
