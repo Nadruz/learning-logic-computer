@@ -1,4 +1,4 @@
-//JASON JavaScript Object Notation
+//JSON JavaScript Object Notation
 // chave e valor com objetivo de transferir dados
 let invoice = {
     name: "Juliana",
