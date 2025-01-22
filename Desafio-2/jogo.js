@@ -28,5 +28,7 @@ guerreiro.atacar();
 monge.atacar();
 ninja.atacar();
 
+//Saída deseja -> mago
 console.log(mago.atacar());
+
 
